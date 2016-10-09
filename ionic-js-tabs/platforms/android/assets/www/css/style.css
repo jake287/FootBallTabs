@@ -1,0 +1,54 @@
+﻿/* Header Style */
+.football-header-nav {
+    background-color: #1d500f;
+}
+
+.football-header-nav-title {
+    color: white;
+    text-align: left;
+    font-family: Arial;
+}
+
+/* Tab icons*/
+.football-tab-icon {
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-color: #adf599;
+    height: 100%;
+}
+
+.football-schedule-tab-icon {
+    background-image: url('../icon/common/icon-schedule-btn-footer.jpg');
+}
+
+.football-team-tab-icon {
+    background-image: url('../icon/common/icon-team-btn-footer.jpg');
+}
+
+.football-communication-tab-icon {
+    background-image: url('../icon/common/icon-communication-btn-footer.jpg');
+}
+
+.football-stadium-tab-icon {
+    background-image: url('../icon/common/icon-stadium-btn-footer.jpg');
+}
+
+/* Common components*/
+.football-background {
+    background-color: #adf599;
+}
+
+.football-next-match-title {
+    height:8%;
+    color: #1d500f;
+    text-align: left;
+    font-family: Arial;
+    font-size:36px;
+}
+
+.football-common-icon-img {
+    width: 40px;
+    height: 38px;
+    margin-top: 1px;
+}
